@@ -27,8 +27,9 @@ section {
   padding: 5px;
   position: center;
   border-radius: 10px;
-text-wrap: auto;
-outline: solid 2px goldenrod;
+  text-wrap: auto;
+  outline: solid 2px goldenrod;
+max-width: 600px;
 }
 
 p {
