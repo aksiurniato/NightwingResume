@@ -29,6 +29,8 @@ section {
   border-radius: 10px;
   text-wrap: auto;
   outline: solid 2px goldenrod;
+    width: 750px;
+margin: auto;
 }
 
 p {
