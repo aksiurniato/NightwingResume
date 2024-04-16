@@ -1,0 +1,51 @@
+body {
+    position: justify;
+    background: hsl(249, 57%, 16%);
+    padding: 20px;
+}
+
+content {
+    position: justify;
+    background: #cccccc;
+}
+
+h2 {
+    position: center;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/618/479/desktop-wallpaper-tumblr-marble-marble-tumblr.jpg");
+    background-size: 100% auto;
+    opacity: 0.8;
+    padding: 5px;
+    height: 26px;
+    border-radius: 5px;
+    outline: solid 2px goldenrod;
+
+}
+
+section {
+  display: block;
+  background-color: #919bad;
+  padding: 5px;
+  position: center;
+  border-radius: 10px;
+text-wrap: auto;
+outline: solid 2px goldenrod;
+}
+
+p {
+  color: #000;
+  padding-left: 5px;
+  text-align: left;
+  font-size: 14px;
+}
+
+text {
+  text-align: center;
+  color: #000000;
+}
+
+h1 {
+font-size: large;
+text-align: left;
+padding-left: 5px;
+padding-bottom: 0%;
+}
