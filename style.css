@@ -5,7 +5,6 @@ body {
 }
 
 content {
-    position: justify;
     background: #cccccc;
 }
 
@@ -29,7 +28,8 @@ section {
   border-radius: 10px;
   text-wrap: auto;
   outline: solid 2px goldenrod;
-  max-width: 600px;
+  max-width: 75%;
+  margin: auto;
 }
 
 p {
